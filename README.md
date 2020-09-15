@@ -1,14 +1,15 @@
 # PythonTrainingSep20
 ## Task1:
-print the below text using python in the below specified model
-(i)Hello' How 'Are' you
-(ii)Hello' "How 'Are' You"
+print the below text using python in the below specified model  
+(i)Hello' How 'Are' you  
+(ii)Hello' "How 'Are' You"  
 
 ## Task2:
 Reverse a string "Im a devops engineer" without using default buildin reverse function 
 
 ## Task3:
-Remove duplicate value in the given list x=[1,4,5,6,7,4,1] 
+Remove duplicate value in the given list   
+x=[1,4,5,6,7,4,1] 
 
 ## Task4:
 Find the index valuein the given list  
